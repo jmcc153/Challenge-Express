@@ -4,7 +4,7 @@ const routes = require('./api/routes');
 require('./api/database/mongoDB');
 
 const app = express();
-const port = 3000;
+const port = 443;
 
 app.use(express.json());
 
