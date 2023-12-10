@@ -34,7 +34,8 @@
 | Nombre           | TYPE  
 |:--------------:|:------:|
 | MONGO_USER     | String | 
-| MONGO_PASSWORD | INT    |
+| MONGO_PASSWORD | String |
+| PORT           | INT    |
 ---
 ## Endpoints 
 
